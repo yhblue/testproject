@@ -3,5 +3,5 @@
 void mymalloc(void)
 {
 
-	
+	printf("hahhhhh")
 }
