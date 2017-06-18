@@ -3,5 +3,5 @@
 void main(void)
 {
 
-	printf("welcom to use skynet");
+	printf("!!!!!!!!welcom to use skynet!!!!!!!!");
 }
